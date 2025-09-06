@@ -4,7 +4,7 @@ A modern, responsive website for Gyanplanet Institute built with React, Tailwind
 
 ## 🚀 Live Demo
 
-Visit the live website: [https://nileshunique.github.io/gyanplanet_institute](https://nileshunique.github.io/gyanplanet_institute)
+Visit the live website here: [https://nileshunique.github.io/gyanplanet_institute](https://nileshunique.github.io/gyanplanet_institute)
 
 ## 📋 Features
 
