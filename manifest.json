@@ -34,12 +34,12 @@
       "sizes": "16x16"
     }
   ],
-  "start_url": "/gyanplanet-institute/",
+  "start_url": "/gyanplanet_institute/",
   "display": "standalone",
   "theme_color": "#3b82f6",
   "background_color": "#ffffff",
   "orientation": "portrait-primary",
-  "scope": "/gyanplanet-institute/",
+  "scope": "/gyanplanet_institute/",
   "lang": "en",
   "categories": ["education", "learning", "courses"]
 }
