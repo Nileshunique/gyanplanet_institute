@@ -7,7 +7,7 @@ Follow these exact steps to set up your repository and deploy to GitHub Pages.
 ### 1. Create GitHub Repository
 1. Go to [github.com](https://github.com) and sign in
 2. Click "+" → "New repository"
-3. Repository name: `gyanplanet-institute`
+3. Repository name: `gyanplanet_institute`
 4. Description: "Official website for Gyanplanet Institute - Educational courses and resources"
 5. Make it **Public**
 6. **Don't** check any initialization options
@@ -20,7 +20,7 @@ git init
 git add .
 git commit -m "Initial commit: Gyanplanet Institute website"
 git branch -M main
-git remote add origin https://github.com/nileshunique/gyanplanet-institute.git
+git remote add origin https://github.com/nileshunique/gyanplanet_institute.git
 git push -u origin main
 ```
 
@@ -47,7 +47,7 @@ Value: fhq1GKfSgFDBw32aI
 ### 5. Wait for Deployment
 - Go to Actions tab
 - Wait for green checkmark ✅
-- Visit: https://nileshunique.github.io/gyanplanet-institute/
+- Visit: https://nileshunique.github.io/gyanplanet_institute/
 
 ---
 
@@ -57,9 +57,9 @@ Value: fhq1GKfSgFDBw32aI
 
 **Repository Details:**
 - Owner: `nileshunique`
-- Repository name: `gyanplanet-institute`
+- Repository name: `gyanplanet_institute`
 - Description: `Official website for Gyanplanet Institute - Educational courses and resources`
-- Website: `https://nileshunique.github.io/gyanplanet-institute`
+- Website: `https://nileshunique.github.io/gyanplanet_institute`
 - Topics: `education`, `react`, `tailwindcss`, `github-pages`, `institute`, `courses`
 
 **Repository Settings to Configure:**
@@ -98,7 +98,7 @@ Value: fhq1GKfSgFDBw32aI
    - This enables our custom workflow
 
 3. **Custom Domain (Optional)**
-   - If you have a domain: `gyanplanet-institute.com`
+   - If you have a domain: `gyanplanet_institute.com`
    - ✅ Enforce HTTPS
 
 ### Step 4: Environment Variables Setup
@@ -146,7 +146,7 @@ Add these topics to help with discoverability:
 4. If red ❌, click to see error details
 
 ### 2. Verify Website Access
-1. Visit: https://nileshunique.github.io/gyanplanet-institute/
+1. Visit: https://nileshunique.github.io/gyanplanet_institute/
 2. Check all pages load:
    - Home: `/`
    - Courses: `/courses`
@@ -241,4 +241,4 @@ After successful deployment:
 
 **🎉 Congratulations! Your Gyanplanet Institute website is now live!**
 
-**Live URL:** https://nileshunique.github.io/gyanplanet-institute/
+**Live URL:** https://nileshunique.github.io/gyanplanet_institute/

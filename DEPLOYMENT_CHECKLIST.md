@@ -29,7 +29,7 @@ Use this checklist to ensure a smooth deployment to GitHub Pages.
 ## 🚀 GitHub Repository Setup
 
 ### ✅ Repository Configuration
-- [ ] Repository name: `gyanplanet-institute`
+- [ ] Repository name: `gyanplanet_institute`
 - [ ] Repository is public
 - [ ] Repository has proper description
 - [ ] README.md is comprehensive and up-to-date
@@ -183,7 +183,7 @@ Once all items are checked:
 3. **Gather user feedback** 💬
 4. **Plan future updates** 📅
 
-**Live Website:** https://nileshunique.github.io/gyanplanet-institute/
+**Live Website:** https://nileshunique.github.io/gyanplanet_institute/
 
 **Last Updated:** January 9, 2025
 **Deployed By:** [Your Name]

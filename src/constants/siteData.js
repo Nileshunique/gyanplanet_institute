@@ -11,7 +11,7 @@ export const SITE_INFO = {
     facebook: "https://facebook.com/gyanplanetinstitute",
     twitter: "https://twitter.com/gyanplanet",
     instagram: "https://instagram.com/gyanplanetinstitute",
-    linkedin: "https://linkedin.com/company/gyanplanet-institute",
+    linkedin: "https://linkedin.com/company/gyanplanet_institute",
     youtube: "https://youtube.com/@gyanplanetinstitute"
   }
 };

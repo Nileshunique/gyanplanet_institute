@@ -20,7 +20,7 @@ Before you begin, make sure you have:
 2. **Create New Repository**
    - Click the "+" icon in the top right corner
    - Select "New repository"
-   - Repository name: `gyanplanet-institute`
+   - Repository name: `gyanplanet_institute`
    - Description: "Official website for Gyanplanet Institute"
    - Make sure it's **Public**
    - **DO NOT** initialize with README, .gitignore, or license (we already have these)
@@ -31,7 +31,7 @@ Before you begin, make sure you have:
 1. **Open Terminal/Command Prompt**
    Navigate to your project directory:
    ```bash
-   cd path/to/gyanplanet-institute
+   cd path/to/gyanplanet_institute
    ```
 
 2. **Initialize Git Repository** (if not already done)
@@ -41,7 +41,7 @@ Before you begin, make sure you have:
 
 3. **Add Remote Origin**
    ```bash
-   git remote add origin https://github.com/nileshunique/gyanplanet-institute.git
+   git remote add origin https://github.com/nileshunique/gyanplanet_institute.git
    ```
 
 4. **Add All Files**
@@ -116,13 +116,13 @@ Before you begin, make sure you have:
    - If there's a red X, click on it to see error details
 
 2. **Access Your Website**
-   - Your website will be available at: `https://nileshunique.github.io/gyanplanet-institute/`
+   - Your website will be available at: `https://nileshunique.github.io/gyanplanet_institute/`
    - It may take a few minutes for the first deployment
 
 ### Step 7: Custom Domain Setup (Optional)
 
 1. **Purchase a Domain**
-   - Buy a domain like `gyanplanet-institute.com`
+   - Buy a domain like `gyanplanet_institute.com`
 
 2. **Configure DNS**
    - In your domain registrar's DNS settings, add these records:
@@ -141,7 +141,7 @@ Before you begin, make sure you have:
 
 3. **Update GitHub Pages Settings**
    - Go to repository Settings → Pages
-   - In "Custom domain", enter your domain: `gyanplanet-institute.com`
+   - In "Custom domain", enter your domain: `gyanplanet_institute.com`
    - Check "Enforce HTTPS"
 
 ## 🔄 Making Updates
@@ -273,7 +273,7 @@ The website is already optimized for SEO with:
 
 Your Gyanplanet Institute website is now live on GitHub Pages! 
 
-**Website URL:** https://nileshunique.github.io/gyanplanet-institute/
+**Website URL:** https://nileshunique.github.io/gyanplanet_institute/
 
 Remember to:
 - ✅ Test all functionality

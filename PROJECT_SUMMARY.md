@@ -42,7 +42,7 @@
 
 ### 6. **Project Structure and Files**
 ```
-gyanplanet-institute/
+gyanplanet_institute/
 ├── .github/workflows/deploy.yml     ✅ GitHub Actions workflow
 ├── public/
 │   ├── index.html                   ✅ Enhanced with SEO meta tags
@@ -75,7 +75,7 @@ gyanplanet-institute/
 ## 🚀 GitHub Pages Deployment Process
 
 ### Automatic Deployment (Recommended)
-1. **Create Repository**: `gyanplanet-institute` on GitHub
+1. **Create Repository**: `gyanplanet_institute` on GitHub
 2. **Push Code**: Upload all project files to main branch
 3. **Enable Pages**: Settings → Pages → Source: "GitHub Actions"
 4. **Add Secrets**: EmailJS credentials in repository secrets
@@ -92,9 +92,9 @@ npm run deploy
 ## 🔧 GitHub Repository Configuration
 
 ### Repository Settings
-- **Name**: `gyanplanet-institute`
+- **Name**: `gyanplanet_institute`
 - **Description**: "Official website for Gyanplanet Institute - Educational courses and resources"
-- **Homepage**: `https://nileshunique.github.io/gyanplanet-institute`
+- **Homepage**: `https://nileshunique.github.io/gyanplanet_institute`
 - **Visibility**: Public
 - **Topics**: education, react, tailwindcss, github-pages, institute, courses
 
@@ -107,7 +107,7 @@ REACT_APP_EMAILJS_PUBLIC_KEY = fhq1GKfSgFDBw32aI
 
 ### GitHub Pages Configuration
 - **Source**: GitHub Actions
-- **Custom Domain**: gyanplanet-institute.com (optional)
+- **Custom Domain**: gyanplanet_institute.com (optional)
 - **Enforce HTTPS**: ✅ Enabled
 
 ---
@@ -116,7 +116,7 @@ REACT_APP_EMAILJS_PUBLIC_KEY = fhq1GKfSgFDBw32aI
 
 ### 1. Create Repository on GitHub
 ```
-Repository name: gyanplanet-institute
+Repository name: gyanplanet_institute
 Description: Official website for Gyanplanet Institute - Educational courses and resources
 Public repository: ✅
 Initialize: ❌ (Don't check any boxes)
@@ -128,7 +128,7 @@ git init
 git add .
 git commit -m "Initial commit: Gyanplanet Institute website"
 git branch -M main
-git remote add origin https://github.com/nileshunique/gyanplanet-institute.git
+git remote add origin https://github.com/nileshunique/gyanplanet_institute.git
 git push -u origin main
 ```
 
@@ -149,7 +149,7 @@ git push -u origin main
 - Red X = check logs for errors
 
 ### 6. Access Your Website
-**Live URL**: https://nileshunique.github.io/gyanplanet-institute/
+**Live URL**: https://nileshunique.github.io/gyanplanet_institute/
 
 ---
 
@@ -238,4 +238,4 @@ git push -u origin main
 
 **Next Step**: Follow the GitHub setup steps to deploy your website!
 
-**Expected Live URL**: https://nileshunique.github.io/gyanplanet-institute/
+**Expected Live URL**: https://nileshunique.github.io/gyanplanet_institute/

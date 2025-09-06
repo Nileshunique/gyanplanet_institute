@@ -12,7 +12,7 @@ import './App.css';
 function App() {
   return (
     <HelmetProvider>
-      <Router basename="/gyanplanet-institute">
+      <Router basename="/gyanplanet_institute">
         <div className="App">
           <PerformanceMonitor />
           <Header />

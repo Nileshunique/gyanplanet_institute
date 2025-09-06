@@ -4,7 +4,7 @@ A modern, responsive website for Gyanplanet Institute built with React, Tailwind
 
 ## 🚀 Live Demo
 
-Visit the live website: [https://nileshunique.github.io/gyanplanet-institute](https://nileshunique.github.io/gyanplanet-institute)
+Visit the live website: [https://nileshunique.github.io/gyanplanet_institute](https://nileshunique.github.io/gyanplanet_institute)
 
 ## 📋 Features
 
@@ -40,8 +40,8 @@ Visit the live website: [https://nileshunique.github.io/gyanplanet-institute](ht
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/nileshunique/gyanplanet-institute.git
-   cd gyanplanet-institute
+   git clone https://github.com/nileshunique/gyanplanet_institute.git
+   cd gyanplanet_institute
    ```
 
 2. **Install dependencies**
@@ -70,13 +70,13 @@ Visit the live website: [https://nileshunique.github.io/gyanplanet-institute](ht
 ### Step 1: Create GitHub Repository
 
 1. **Create a new repository on GitHub**
-   - Repository name: `gyanplanet-institute`
+   - Repository name: `gyanplanet_institute`
    - Make it public
    - Don't initialize with README (we already have one)
 
 2. **Push your code to GitHub**
    ```bash
-   git remote add origin https://github.com/nileshunique/gyanplanet-institute.git
+   git remote add origin https://github.com/nileshunique/gyanplanet_institute.git
    git branch -M main
    git add .
    git commit -m "Initial commit"
@@ -146,12 +146,12 @@ Visit the live website: [https://nileshunique.github.io/gyanplanet-institute](ht
 
 2. **Configure DNS**
    - Point your domain to GitHub Pages
-   - Add CNAME record: `gyanplanet-institute.com` → `nileshunique.github.io`
+   - Add CNAME record: `gyanplanet_institute.com` → `nileshunique.github.io`
 
 ## 📁 Project Structure
 
 ```
-gyanplanet-institute/
+gyanplanet_institute/
 ├── public/
 │   ├── index.html
 │   ├── favicon.ico
@@ -263,7 +263,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For support and questions:
 - Email: info@gyanplanetinstitute.com
 - Phone: +91-9876543210
-- Website: [https://nileshunique.github.io/gyanplanet-institute](https://nileshunique.github.io/gyanplanet-institute)
+- Website: [https://nileshunique.github.io/gyanplanet_institute](https://nileshunique.github.io/gyanplanet_institute)
 
 ## 🙏 Acknowledgments
 
