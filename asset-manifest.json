@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/gyanplanet_institute/static/css/main.feb0a34b.css",
+    "main.js": "/gyanplanet_institute/static/js/main.5605afd6.js",
+    "static/js/599.9724c6d6.chunk.js": "/gyanplanet_institute/static/js/599.9724c6d6.chunk.js",
+    "static/js/453.2f5d6fd6.chunk.js": "/gyanplanet_institute/static/js/453.2f5d6fd6.chunk.js",
+    "index.html": "/gyanplanet_institute/index.html",
+    "main.feb0a34b.css.map": "/gyanplanet_institute/static/css/main.feb0a34b.css.map",
+    "main.5605afd6.js.map": "/gyanplanet_institute/static/js/main.5605afd6.js.map",
+    "599.9724c6d6.chunk.js.map": "/gyanplanet_institute/static/js/599.9724c6d6.chunk.js.map",
+    "453.2f5d6fd6.chunk.js.map": "/gyanplanet_institute/static/js/453.2f5d6fd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feb0a34b.css",
+    "static/js/main.5605afd6.js"
+  ]
+}
