@@ -183,7 +183,7 @@ Once all items are checked:
 3. **Gather user feedback** 💬
 4. **Plan future updates** 📅
 
-**Live Website:** https://nileshunique.github.io/gyanplanet_institute/
+**Live Website:** https://Nileshunique.github.io/gyanplanet_institute/
 
 **Last Updated:** January 9, 2025
 **Deployed By:** [Your Name]

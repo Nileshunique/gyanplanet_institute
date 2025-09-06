@@ -20,7 +20,7 @@ git init
 git add .
 git commit -m "Initial commit: Gyanplanet Institute website"
 git branch -M main
-git remote add origin https://github.com/nileshunique/gyanplanet_institute.git
+git remote add origin https://github.com/Nileshunique/gyanplanet_institute.git
 git push -u origin main
 ```
 
@@ -47,7 +47,7 @@ Value: fhq1GKfSgFDBw32aI
 ### 5. Wait for Deployment
 - Go to Actions tab
 - Wait for green checkmark ✅
-- Visit: https://nileshunique.github.io/gyanplanet_institute/
+- Visit: https://Nileshunique.github.io/gyanplanet_institute/
 
 ---
 
@@ -59,7 +59,7 @@ Value: fhq1GKfSgFDBw32aI
 - Owner: `nileshunique`
 - Repository name: `gyanplanet_institute`
 - Description: `Official website for Gyanplanet Institute - Educational courses and resources`
-- Website: `https://nileshunique.github.io/gyanplanet_institute`
+- Website: `https://Nileshunique.github.io/gyanplanet_institute`
 - Topics: `education`, `react`, `tailwindcss`, `github-pages`, `institute`, `courses`
 
 **Repository Settings to Configure:**
@@ -146,7 +146,7 @@ Add these topics to help with discoverability:
 4. If red ❌, click to see error details
 
 ### 2. Verify Website Access
-1. Visit: https://nileshunique.github.io/gyanplanet_institute/
+1. Visit: https://Nileshunique.github.io/gyanplanet_institute/
 2. Check all pages load:
    - Home: `/`
    - Courses: `/courses`
@@ -241,4 +241,4 @@ After successful deployment:
 
 **🎉 Congratulations! Your Gyanplanet Institute website is now live!**
 
-**Live URL:** https://nileshunique.github.io/gyanplanet_institute/
+**Live URL:** https://Nileshunique.github.io/gyanplanet_institute/

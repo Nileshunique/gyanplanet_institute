@@ -4,7 +4,7 @@ A modern, responsive website for Gyanplanet Institute built with React, Tailwind
 
 ## 🚀 Live Demo
 
-Visit the live website here: [https://nileshunique.github.io/gyanplanet_institute](https://nileshunique.github.io/gyanplanet_institute)
+Visit the live website here: [https://Nileshunique.github.io/gyanplanet_institute](https://Nileshunique.github.io/gyanplanet_institute)
 
 ## 📋 Features
 
@@ -40,7 +40,7 @@ Visit the live website here: [https://nileshunique.github.io/gyanplanet_institut
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/nileshunique/gyanplanet_institute.git
+   git clone https://github.com/Nileshunique/gyanplanet_institute.git
    cd gyanplanet_institute
    ```
 
@@ -76,7 +76,7 @@ Visit the live website here: [https://nileshunique.github.io/gyanplanet_institut
 
 2. **Push your code to GitHub**
    ```bash
-   git remote add origin https://github.com/nileshunique/gyanplanet_institute.git
+   git remote add origin https://github.com/Nileshunique/gyanplanet_institute.git
    git branch -M main
    git add .
    git commit -m "Initial commit"
@@ -263,7 +263,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For support and questions:
 - Email: info@gyanplanetinstitute.com
 - Phone: +91-9876543210
-- Website: [https://nileshunique.github.io/gyanplanet_institute](https://nileshunique.github.io/gyanplanet_institute)
+- Website: [https://Nileshunique.github.io/gyanplanet_institute](https://Nileshunique.github.io/gyanplanet_institute)
 
 ## 🙏 Acknowledgments
 

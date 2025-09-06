@@ -39,7 +39,7 @@ try {
         
         console.log('\n🎉 Deployment completed successfully!');
         console.log('🌐 Your website will be available at:');
-        console.log('   https://nileshunique.github.io/gyanplanet_institute/');
+        console.log('   https://Nileshunique.github.io/gyanplanet_institute/');
         console.log('\n⏰ Note: It may take a few minutes for changes to appear.');
         
     } catch (error) {

@@ -94,7 +94,7 @@ npm run deploy
 ### Repository Settings
 - **Name**: `gyanplanet_institute`
 - **Description**: "Official website for Gyanplanet Institute - Educational courses and resources"
-- **Homepage**: `https://nileshunique.github.io/gyanplanet_institute`
+- **Homepage**: `https://Nileshunique.github.io/gyanplanet_institute`
 - **Visibility**: Public
 - **Topics**: education, react, tailwindcss, github-pages, institute, courses
 
@@ -128,7 +128,7 @@ git init
 git add .
 git commit -m "Initial commit: Gyanplanet Institute website"
 git branch -M main
-git remote add origin https://github.com/nileshunique/gyanplanet_institute.git
+git remote add origin https://github.com/Nileshunique/gyanplanet_institute.git
 git push -u origin main
 ```
 
@@ -149,7 +149,7 @@ git push -u origin main
 - Red X = check logs for errors
 
 ### 6. Access Your Website
-**Live URL**: https://nileshunique.github.io/gyanplanet_institute/
+**Live URL**: https://Nileshunique.github.io/gyanplanet_institute/
 
 ---
 
@@ -238,4 +238,4 @@ git push -u origin main
 
 **Next Step**: Follow the GitHub setup steps to deploy your website!
 
-**Expected Live URL**: https://nileshunique.github.io/gyanplanet_institute/
+**Expected Live URL**: https://Nileshunique.github.io/gyanplanet_institute/

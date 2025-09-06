@@ -41,7 +41,7 @@ Before you begin, make sure you have:
 
 3. **Add Remote Origin**
    ```bash
-   git remote add origin https://github.com/nileshunique/gyanplanet_institute.git
+   git remote add origin https://github.com/Nileshunique/gyanplanet_institute.git
    ```
 
 4. **Add All Files**
@@ -116,7 +116,7 @@ Before you begin, make sure you have:
    - If there's a red X, click on it to see error details
 
 2. **Access Your Website**
-   - Your website will be available at: `https://nileshunique.github.io/gyanplanet_institute/`
+   - Your website will be available at: `https://Nileshunique.github.io/gyanplanet_institute/`
    - It may take a few minutes for the first deployment
 
 ### Step 7: Custom Domain Setup (Optional)
@@ -273,7 +273,7 @@ The website is already optimized for SEO with:
 
 Your Gyanplanet Institute website is now live on GitHub Pages! 
 
-**Website URL:** https://nileshunique.github.io/gyanplanet_institute/
+**Website URL:** https://Nileshunique.github.io/gyanplanet_institute/
 
 Remember to:
 - ✅ Test all functionality
